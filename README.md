@@ -113,21 +113,4 @@ Bajaj_Finserv_FullStack_RestAPI/
 3. **Special Characters**: Identified and collected separately
 4. **String Transformation**: Concatenated alphabetic string is reversed and converted to alternating case
 
-## Error Handling
-
-The API includes built-in validation for:
-- Input data structure validation using Pydantic models
-- Automatic type checking and conversion
-- FastAPI's built-in error responses for invalid requests
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-This project is part of the Bajaj Finserv FullStack development initiative.
 
